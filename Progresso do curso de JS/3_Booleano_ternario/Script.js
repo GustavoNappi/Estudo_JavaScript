@@ -1,0 +1,1 @@
+console.log(5>0 ? 'é sim parcero' : 'é nao')
